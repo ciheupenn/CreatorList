@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./assets/creatorverse-demo.gif' title='Video Walkthrough' width='100%' alt='Creatorverse App Demo' />
+<img src='./CreatorList/src/assets/creatorList.gif' title='Video Walkthrough' width='100%' alt='Creatorverse App Demo' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with MacOS
